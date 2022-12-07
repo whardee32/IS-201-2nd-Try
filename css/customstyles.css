@@ -1,0 +1,43 @@
+.links {
+    color: black;
+    padding-top: 20px;
+    font-size: large;
+}
+.title {
+    text-align: center;
+    padding-top: 10px;
+}
+.common {
+    background-color: lightgrey ;
+}
+.fampic {
+    height: 275px;
+    outline: 2px solid black;
+}
+.fampic2 {
+    height: 275px;
+    outline: 2px solid black;
+
+}
+.copywrite {
+    text-align: center;
+    font-style: italic;
+    color: grey;
+}
+.heading {
+    text-align: center;
+    font-family: monospace;
+    border: 3px outset lightgrey;
+}
+.golfpic {
+    float: left;
+    width: 33.33%;
+    height: 300px;
+    outline: 2px solid black;
+}
+.gympic {
+    float: middle;
+    width: 33.33%;
+    height: 300px;
+    outline: 2px solid black;
+}
