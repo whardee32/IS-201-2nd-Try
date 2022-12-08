@@ -16,13 +16,25 @@
 }
 .fampic2 {
     height: 275px;
+    width: 300px;
     outline: 2px solid black;
 
+}
+.fampic3 {
+    height: 275px;
+    width: 385px;
+    outline: 2px solid black;
+}
+.campingpic{
+    height: 275px;
+    outline: 2px solid black;
+    width: 220px;
 }
 .copywrite {
     text-align: center;
     font-style: italic;
     color: grey;
+   
 }
 .heading {
     text-align: center;
@@ -32,7 +44,7 @@
 .golfpic {
     float: left;
     width: 33.33%;
-    height: 300px;
+    height: 250px;
     outline: 2px solid black;
 }
 .gympic {
@@ -40,4 +52,11 @@
     width: 33.33%;
     height: 300px;
     outline: 2px solid black;
+}
+.aboutme {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tableau {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 300px;
 }
