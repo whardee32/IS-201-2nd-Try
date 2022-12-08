@@ -2,13 +2,14 @@
     color: black;
     padding-top: 20px;
     font-size: large;
+  
 }
 .title {
     text-align: center;
     padding-top: 10px;
 }
 .common {
-    background-color: lightgrey ;
+    background-color: whitesmoke;
 }
 .fampic {
     height: 275px;
@@ -36,15 +37,21 @@
     width: 420px;
 }
 .copywrite {
-    text-align: center;
     font-style: italic;
-    color: grey;
-   
+    color: black;
+    bottom: 2px;
+    position: fixed;
+    text-align: center;
+    left: 5px;
+    right: 5px;
+    padding: 5px;
+    
 }
 .heading {
     text-align: center;
     font-family: monospace;
-    border: 3px outset lightgrey;
+    border: 3px outset whitesmoke;
+
 }
 .golfpic {
     float: left;
@@ -63,6 +70,13 @@
     font-size: larger;
 }
 .tableau {
-    font-family: Arial, Helvetica, sans-serif;
     margin-left: 300px;
+}
+.tableautitle {
+    margin-left: 425px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+.experiencehead {
+    font-weight: bold;
 }
